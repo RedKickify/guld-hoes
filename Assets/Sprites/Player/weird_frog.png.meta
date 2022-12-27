@@ -1,0 +1,2136 @@
+fileFormatVersion: 2
+guid: d6c6e759961987d4594d726bdd01aa3d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8976042055974385312
+    second: weird_frog_0
+  - first:
+      213: -9078426837021799435
+    second: weird_frog_1
+  - first:
+      213: 4438988601497780084
+    second: weird_frog_2
+  - first:
+      213: 2911498758291489215
+    second: weird_frog_3
+  - first:
+      213: -4737988944326983686
+    second: weird_frog_4
+  - first:
+      213: 2209914696553844439
+    second: weird_frog_5
+  - first:
+      213: 266669942263256402
+    second: weird_frog_6
+  - first:
+      213: 3323478194159888673
+    second: weird_frog_7
+  - first:
+      213: -1270562250827913115
+    second: weird_frog_8
+  - first:
+      213: 963444583311902669
+    second: weird_frog_9
+  - first:
+      213: -6915974415554360089
+    second: weird_frog_10
+  - first:
+      213: 6616064368826879499
+    second: weird_frog_11
+  - first:
+      213: -6119117713257419778
+    second: weird_frog_12
+  - first:
+      213: 5456292309832462737
+    second: weird_frog_13
+  - first:
+      213: 1141817723630618890
+    second: weird_frog_14
+  - first:
+      213: -8167949952103492866
+    second: weird_frog_15
+  - first:
+      213: 5041708071943356343
+    second: weird_frog_16
+  - first:
+      213: 1929857624732712714
+    second: weird_frog_17
+  - first:
+      213: 8132820869386391842
+    second: weird_frog_18
+  - first:
+      213: -5591731292175151232
+    second: weird_frog_19
+  - first:
+      213: -1409952987283002693
+    second: weird_frog_20
+  - first:
+      213: -7153573139224286344
+    second: weird_frog_21
+  - first:
+      213: 4027713761453409366
+    second: weird_frog_22
+  - first:
+      213: -4451941732010570524
+    second: weird_frog_23
+  - first:
+      213: -5663680165976705329
+    second: weird_frog_24
+  - first:
+      213: -492675237453196923
+    second: weird_frog_25
+  - first:
+      213: -8461814872427354850
+    second: weird_frog_26
+  - first:
+      213: 3672002321532150119
+    second: weird_frog_27
+  - first:
+      213: 6361088340014397710
+    second: weird_frog_28
+  - first:
+      213: -4982940527052224786
+    second: weird_frog_29
+  - first:
+      213: -787456499575400544
+    second: weird_frog_30
+  - first:
+      213: 3827407090450470968
+    second: weird_frog_31
+  - first:
+      213: -1052973758640040643
+    second: weird_frog_32
+  - first:
+      213: -1169749971655739028
+    second: weird_frog_33
+  - first:
+      213: 3357835821752557177
+    second: weird_frog_34
+  - first:
+      213: 3803526650699771553
+    second: weird_frog_35
+  - first:
+      213: -4022116887243072219
+    second: weird_frog_36
+  - first:
+      213: -1502817820178263711
+    second: weird_frog_37
+  - first:
+      213: 4574287757181273179
+    second: weird_frog_38
+  - first:
+      213: -1578283143174438345
+    second: weird_frog_39
+  - first:
+      213: -1350577677997442194
+    second: weird_frog_40
+  - first:
+      213: -6437185021237257861
+    second: weird_frog_41
+  - first:
+      213: 5490411662308996443
+    second: weird_frog_42
+  - first:
+      213: 8613024651219798919
+    second: weird_frog_idle
+  - first:
+      213: 3609371130659802035
+    second: weird_frog_jumping
+  - first:
+      213: 8570863210617939764
+    second: weird_frog_45
+  - first:
+      213: -4152495600894511070
+    second: weird_frog_46
+  - first:
+      213: -4192518327874484260
+    second: weird_frog_47
+  - first:
+      213: 1120859646586460312
+    second: weird_frog_48
+  - first:
+      213: 735267616209077029
+    second: weird_frog_49
+  - first:
+      213: -221256044583878913
+    second: weird_frog_50
+  - first:
+      213: 2433579651648198047
+    second: weird_frog_51
+  - first:
+      213: -5442359659794807558
+    second: weird_frog_52
+  - first:
+      213: -5287844271529637787
+    second: weird_frog_53
+  - first:
+      213: 185903410603283918
+    second: weird_frog_54
+  - first:
+      213: -3764272914679274752
+    second: weird_frog_55
+  - first:
+      213: -4186903921333210307
+    second: weird_frog_56
+  - first:
+      213: 8154143627337267926
+    second: weird_frog_57
+  - first:
+      213: 3649487583623217491
+    second: weird_frog_58
+  - first:
+      213: -2902637293648811725
+    second: weird_frog_59
+  - first:
+      213: 2009674687484418583
+    second: weird_frog_60
+  - first:
+      213: -1674127774386721629
+    second: weird_frog_61
+  - first:
+      213: 69183663237910775
+    second: weird_frog_62
+  - first:
+      213: 385691027044050269
+    second: weird_frog_63
+  - first:
+      213: 6648339332958011070
+    second: weird_frog_64
+  - first:
+      213: 1361539866763794492
+    second: weird_frog_65
+  - first:
+      213: 8049302579234661099
+    second: weird_frog_66
+  - first:
+      213: -8156650736102010872
+    second: weird_frog_67
+  - first:
+      213: 3758168112598852874
+    second: weird_frog_68
+  - first:
+      213: 282062316777396943
+    second: weird_frog_69
+  - first:
+      213: 7837387840934965955
+    second: weird_frog_70
+  - first:
+      213: 6057050828073118749
+    second: weird_frog_71
+  - first:
+      213: -411243624269324060
+    second: weird_frog_72
+  - first:
+      213: 2602768737757788689
+    second: weird_frog_73
+  - first:
+      213: -3791609148238922725
+    second: weird_frog_74
+  - first:
+      213: -6004691161786920879
+    second: weird_frog_75
+  - first:
+      213: -8857471831330543132
+    second: weird_frog_76
+  - first:
+      213: 9170472784397465659
+    second: weird_frog_77
+  - first:
+      213: -8059161477040879825
+    second: weird_frog_78
+  - first:
+      213: -4505488547094108169
+    second: weird_frog_79
+  - first:
+      213: 165986479074116916
+    second: weird_frog_80
+  - first:
+      213: -8864721675797398787
+    second: weird_frog_81
+  - first:
+      213: -9044899224719144247
+    second: weird_frog_82
+  - first:
+      213: 2543215305738230155
+    second: weird_frog_83
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: weird_frog_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 327
+        width: 48
+        height: 47
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a6f15b51be419c70800000000000000
+      internalID: 8976042055974385312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weird_frog_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 327
+        width: 48
+        height: 47
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fb41fb24e2f20280800000000000000
+      internalID: -9078426837021799435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weird_frog_2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 327
+        width: 48
+        height: 47
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47f78424d947a9d30800000000000000
+      internalID: 4438988601497780084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weird_frog_3
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 327
+        width: 48
+        height: 47
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb184f3e1b8b76820800000000000000
+      internalID: 2911498758291489215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weird_frog_4
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 327
+        width: 48
+        height: 47
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aff79a778284f3eb0800000000000000
+      internalID: -4737988944326983686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weird_frog_5
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 327
+        width: 48
+        height: 47
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dec10835b13bae10800000000000000
+      internalID: 2209914696553844439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weird_frog_6
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 327
+        width: 48
+        height: 47
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25510ec46e663b300800000000000000
+      internalID: 266669942263256402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weird_frog_7
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 327
+        width: 48
+        height: 47
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12928ad1fcd5f1e20800000000000000
+      internalID: 3323478194159888673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weird_frog_8
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 327
+        width: 48
+        height: 47
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 568a1665d5e0e5ee0800000000000000
+      internalID: -1270562250827913115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weird_frog_9
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 327
+        width: 48
+        height: 47
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc784157eb7de5d00800000000000000
+      internalID: 963444583311902669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weird_frog_10
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 327
+        width: 48
+        height: 47
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ec413559e58500a0800000000000000
+      internalID: -6915974415554360089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weird_frog_11
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 327
+        width: 48
+        height: 47
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0e8b037d7bf0db50800000000000000
+      internalID: 6616064368826879499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weird_frog_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 280
+        width: 48
+        height: 47
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efbad7a3cd6841ba0800000000000000
+      internalID: -6119117713257419778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weird_frog_13
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 280
+        width: 48
+        height: 47
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 191724672f4a8bb40800000000000000
+      internalID: 5456292309832462737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weird_frog_14
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 280
+        width: 48
+        height: 47
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a098f378b2d88df00800000000000000
+      internalID: 1141817723630618890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weird_frog_15
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 280
+        width: 48
+        height: 47
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef2d3b15bcc95ae80800000000000000
+      internalID: -8167949952103492866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weird_frog_16
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 280
+        width: 48
+        height: 47
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bf376187ceb7f540800000000000000
+      internalID: 5041708071943356343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weird_frog_17
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 280
+        width: 48
+        height: 47
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0fb54de84b38ca10800000000000000
+      internalID: 1929857624732712714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weird_frog_18
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 280
+        width: 48
+        height: 47
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 221d8adbd759dd070800000000000000
+      internalID: 8132820869386391842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weird_frog_19
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 280
+        width: 48
+        height: 47
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08fc67a140e2662b0800000000000000
+      internalID: -5591731292175151232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weird_frog_20
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 280
+        width: 48
+        height: 47
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbaeef27a37de6ce0800000000000000
+      internalID: -1409952987283002693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weird_frog_21
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 280
+        width: 48
+        height: 47
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87ba2c1912769bc90800000000000000
+      internalID: -7153573139224286344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weird_frog_22
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 280
+        width: 48
+        height: 47
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6540268835055e730800000000000000
+      internalID: 4027713761453409366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weird_frog_23
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 280
+        width: 48
+        height: 47
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ecc5c605968732c0800000000000000
+      internalID: -4451941732010570524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weird_frog_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 233
+        width: 48
+        height: 47
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc6788185e09661b0800000000000000
+      internalID: -5663680165976705329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weird_frog_25
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 233
+        width: 48
+        height: 47
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58198f95b7aa929f0800000000000000
+      internalID: -492675237453196923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weird_frog_26
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 233
+        width: 48
+        height: 47
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e15a9d5c438919a80800000000000000
+      internalID: -8461814872427354850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weird_frog_27
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 233
+        width: 48
+        height: 47
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 761655508a295f230800000000000000
+      internalID: 3672002321532150119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weird_frog_28
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 233
+        width: 48
+        height: 47
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e09ff6b8420274850800000000000000
+      internalID: 6361088340014397710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weird_frog_29
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 233
+        width: 48
+        height: 47
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee6872ccdf909dab0800000000000000
+      internalID: -4982940527052224786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weird_frog_30
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 233
+        width: 48
+        height: 47
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a75cba5c746215f0800000000000000
+      internalID: -787456499575400544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weird_frog_31
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 233
+        width: 48
+        height: 47
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8389c15687ead1530800000000000000
+      internalID: 3827407090450470968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weird_frog_32
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 233
+        width: 48
+        height: 47
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d35d37602f51361f0800000000000000
+      internalID: -1052973758640040643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weird_frog_33
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 233
+        width: 48
+        height: 47
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c69bf6f299634cfe0800000000000000
+      internalID: -1169749971655739028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weird_frog_34
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 233
+        width: 48
+        height: 47
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97e94a9a3ed699e20800000000000000
+      internalID: 3357835821752557177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weird_frog_35
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 233
+        width: 48
+        height: 47
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aee0bc3657d8c430800000000000000
+      internalID: 3803526650699771553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weird_frog_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 186
+        width: 48
+        height: 47
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52dd6ca40029e28c0800000000000000
+      internalID: -4022116887243072219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weird_frog_37
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 186
+        width: 48
+        height: 47
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 161d522a72be42be0800000000000000
+      internalID: -1502817820178263711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weird_frog_38
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 186
+        width: 48
+        height: 47
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b544533ca722b7f30800000000000000
+      internalID: 4574287757181273179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weird_frog_39
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 186
+        width: 48
+        height: 47
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 732c918e7dfc81ae0800000000000000
+      internalID: -1578283143174438345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weird_frog_40
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 186
+        width: 48
+        height: 47
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6bf36de1c8c14de0800000000000000
+      internalID: -1350577677997442194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weird_frog_41
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 186
+        width: 48
+        height: 47
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7910bf24568aa6a0800000000000000
+      internalID: -6437185021237257861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weird_frog_42
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 186
+        width: 48
+        height: 47
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b55f692415cd13c40800000000000000
+      internalID: 5490411662308996443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weird_frog_idle
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 186
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78b83a9594c978770800000000000000
+      internalID: 8613024651219798919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weird_frog_jumping
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 186
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bb07898bef071230800000000000000
+      internalID: 3609371130659802035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weird_frog_45
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 186
+        width: 48
+        height: 47
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 437a85ffda2d1f670800000000000000
+      internalID: 8570863210617939764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weird_frog_46
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 186
+        width: 48
+        height: 47
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2287f49704f5f56c0800000000000000
+      internalID: -4152495600894511070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weird_frog_47
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 186
+        width: 48
+        height: 47
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd70ab03bce21d5c0800000000000000
+      internalID: -4192518327874484260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weird_frog_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 139
+        width: 48
+        height: 47
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8981bd5f8e71e8f00800000000000000
+      internalID: 1120859646586460312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weird_frog_49
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 139
+        width: 48
+        height: 47
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5238df65002343a00800000000000000
+      internalID: 735267616209077029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weird_frog_50
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 139
+        width: 48
+        height: 47
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffe7b2abcc0fdecf0800000000000000
+      internalID: -221256044583878913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weird_frog_51
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 139
+        width: 48
+        height: 47
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f951c1daccfc5c120800000000000000
+      internalID: 2433579651648198047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weird_frog_52
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 139
+        width: 48
+        height: 47
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af4c30a69bad874b0800000000000000
+      internalID: -5442359659794807558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weird_frog_53
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 139
+        width: 48
+        height: 47
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56844e7b6adcd96b0800000000000000
+      internalID: -5287844271529637787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weird_frog_54
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 139
+        width: 48
+        height: 47
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec5da8fba26749200800000000000000
+      internalID: 185903410603283918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weird_frog_55
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 139
+        width: 48
+        height: 47
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 003eae26abd92cbc0800000000000000
+      internalID: -3764272914679274752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weird_frog_56
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 139
+        width: 48
+        height: 47
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d337e34111125e5c0800000000000000
+      internalID: -4186903921333210307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weird_frog_57
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 139
+        width: 48
+        height: 47
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6daf3f23d66592170800000000000000
+      internalID: 8154143627337267926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weird_frog_58
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 139
+        width: 48
+        height: 47
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3518f0a1f9595a230800000000000000
+      internalID: 3649487583623217491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weird_frog_59
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 139
+        width: 48
+        height: 47
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 339e240a2c2c7b7d0800000000000000
+      internalID: -2902637293648811725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weird_frog_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 92
+        width: 48
+        height: 47
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71a5a950b7cc3eb10800000000000000
+      internalID: 2009674687484418583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weird_frog_61
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 92
+        width: 48
+        height: 47
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ac601bb8ad44c8e0800000000000000
+      internalID: -1674127774386721629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weird_frog_62
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 92
+        width: 48
+        height: 47
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f05e87dc2ac5f000800000000000000
+      internalID: 69183663237910775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weird_frog_63
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 92
+        width: 48
+        height: 47
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d55240412ff3a5500800000000000000
+      internalID: 385691027044050269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weird_frog_64
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 92
+        width: 48
+        height: 47
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebe383f1665a34c50800000000000000
+      internalID: 6648339332958011070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weird_frog_65
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 92
+        width: 48
+        height: 47
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c381df98b4925e210800000000000000
+      internalID: 1361539866763794492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weird_frog_66
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 92
+        width: 48
+        height: 47
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be2eaec7c0ed4bf60800000000000000
+      internalID: 8049302579234661099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weird_frog_67
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 92
+        width: 48
+        height: 47
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80016bd0f51cdce80800000000000000
+      internalID: -8156650736102010872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weird_frog_68
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 92
+        width: 48
+        height: 47
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a05a7ad9cf1b72430800000000000000
+      internalID: 3758168112598852874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weird_frog_69
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 92
+        width: 48
+        height: 47
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fca5a04ce261ae300800000000000000
+      internalID: 282062316777396943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weird_frog_70
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 92
+        width: 48
+        height: 47
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c2f4e197bef3cc60800000000000000
+      internalID: 7837387840934965955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weird_frog_71
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 92
+        width: 48
+        height: 47
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1ca8c1f2a7fe0450800000000000000
+      internalID: 6057050828073118749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weird_frog_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 45
+        width: 48
+        height: 47
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e068434a18fa4af0800000000000000
+      internalID: -411243624269324060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weird_frog_73
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 45
+        width: 48
+        height: 47
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11a7b8e7064ee1420800000000000000
+      internalID: 2602768737757788689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weird_frog_74
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 45
+        width: 48
+        height: 47
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1cf818819f716bc0800000000000000
+      internalID: -3791609148238922725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weird_frog_75
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 45
+        width: 48
+        height: 47
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15053cbd33d0baca0800000000000000
+      internalID: -6004691161786920879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weird_frog_76
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 45
+        width: 48
+        height: 47
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e9a38d5c40f31580800000000000000
+      internalID: -8857471831330543132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weird_frog_77
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 45
+        width: 48
+        height: 47
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b38f5600960144f70800000000000000
+      internalID: 9170472784397465659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weird_frog_78
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 45
+        width: 48
+        height: 47
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f27477df55b182090800000000000000
+      internalID: -8059161477040879825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weird_frog_79
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 45
+        width: 48
+        height: 47
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f76dda990a4971c0800000000000000
+      internalID: -4505488547094108169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weird_frog_80
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 45
+        width: 48
+        height: 47
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4350bb2c2d3bd4200800000000000000
+      internalID: 165986479074116916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weird_frog_81
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 45
+        width: 48
+        height: 47
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfaf3696a9e2af480800000000000000
+      internalID: -8864721675797398787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weird_frog_82
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 45
+        width: 48
+        height: 47
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cac869b3101a7280800000000000000
+      internalID: -9044899224719144247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weird_frog_83
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 45
+        width: 48
+        height: 47
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b891dd598d05b4320800000000000000
+      internalID: 2543215305738230155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
