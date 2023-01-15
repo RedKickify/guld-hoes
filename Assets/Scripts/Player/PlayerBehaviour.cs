@@ -1,4 +1,3 @@
-using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -10,6 +9,9 @@ public class PlayerBehaviour : MonoBehaviour
     private PlayerState _state;
     private Camera _camera;
     private Rigidbody2D rigid;
+    [SerializeField] private float _playerSizeRadius;
+    private Animator _spriteAnimator;
+    private AudioSource jumpAudio;
 
     private float _jumpTimer;
     [SerializeField] private float _jumpTime;
@@ -23,11 +25,24 @@ public class PlayerBehaviour : MonoBehaviour
     {
         _shadowTransform.gameObject.SetActive(false);
         _camera = Camera.main;
+        _spriteAnimator = _spriteTransform.GetComponent<Animator>();
+        jumpAudio = GetComponent<AudioSource>();
         rigid = GetComponent<Rigidbody2D>();
     }
 
     void Update()
     {
+        if (GameManager.instance.gameState != GameState.Main) return;
+        
+        if (_state != PlayerState.Jumping && !IsOnFloor())
+        {
+            //Died
+            GameManager.instance.PlayerDied();
+            _spriteAnimator.SetTrigger("Fall");
+            return;
+        }
+        
+
         if (Input.GetMouseButtonDown(0) && _state == PlayerState.Idle)
         {
             _start = _camera.ScreenToWorldPoint(Input.mousePosition);
@@ -54,6 +69,25 @@ public class PlayerBehaviour : MonoBehaviour
         }
     }
 
+    private bool IsOnFloor()
+    {
+        Collider2D[] colls = Physics2D.OverlapCircleAll(this.transform.position, _playerSizeRadius);
+        foreach (Collider2D col in colls)
+        {
+            if (col.tag == "Tile")
+            {
+                return true;
+            }
+        }
+        return false;
+    }
+
+    private void OnDrawGizmosSelected()
+    {
+        Gizmos.color = Color.yellow;
+        Gizmos.DrawWireSphere(transform.position, _playerSizeRadius);
+    }
+
     private void RunTimer()
     {
         if (_jumpTimer < _jumpTime)
@@ -74,7 +108,9 @@ public class PlayerBehaviour : MonoBehaviour
         _spriteTransform.localPosition = Vector2.zero;
         _spriteTransform.localScale = new Vector2(1.1f, 1.1f);
         _shadowTransform.gameObject.SetActive(true);
-        GetComponent<AudioSource>().Play();
+        jumpAudio.pitch += Random.Range(0.05f, 0.1f);
+        if (jumpAudio.pitch > 1.3f) jumpAudio.pitch = 0.5f;
+        jumpAudio.Play();
     }
     private void OnLanding()
     {

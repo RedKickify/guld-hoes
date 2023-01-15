@@ -1,0 +1,107 @@
+warning: in the working copy of '.gitattributes', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.gitignore', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.vsconfig', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Prefabs.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Prefabs/Tiles.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Prefabs/Tiles/tile_light_yellow.prefab', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Prefabs/Tiles/tile_light_yellow.prefab.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Prefabs/Tiles/tile_yellow.prefab', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Prefabs/Tiles/tile_yellow.prefab.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Scenes.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Scenes/SampleScene.unity', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Scenes/SampleScene.unity.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Scripts.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Scripts/Map.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Scripts/Map/MapGenerator.cs.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Scripts/Player.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Scripts/Player/PlayerBehaviour.cs.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Sounds.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Sounds/AAAAUUUGHHHH Meme Sound Effect-[AudioTrimmer.com]-[AudioTrimmer.com].wav.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Sprites.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Sprites/Map.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Sprites/Map/Tiles.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Sprites/Player.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Assets/Sprites/Player/weird_frog.png.meta', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Packages/manifest.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Packages/packages-lock.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'ProjectSettings/AudioManager.asset', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'ProjectSettings/ClusterInputManager.asset', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'ProjectSettings/DynamicsManager.asset', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'ProjectSettings/EditorBuildSettings.asset', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'ProjectSettings/EditorSettings.asset', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'ProjectSettings/GraphicsSettings.asset', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'ProjectSettings/InputManager.asset', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'ProjectSettings/NavMeshAreas.asset', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'ProjectSettings/NetworkManager.asset', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'ProjectSettings/PackageManagerSettings.asset', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'ProjectSettings/Physics2DSettings.asset', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'ProjectSettings/PresetManager.asset', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'ProjectSettings/ProjectSettings.asset', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'ProjectSettings/ProjectVersion.txt', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'ProjectSettings/QualitySettings.asset', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'ProjectSettings/TagManager.asset', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'ProjectSettings/TimeManager.asset', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'ProjectSettings/UnityConnectSettings.asset', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'ProjectSettings/VFXManager.asset', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'ProjectSettings/VersionControlSettings.asset', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'ProjectSettings/XRSettings.asset', LF will be replaced by CRLF the next time Git touches it
+[1mdiff --git a/Assets/Prefabs/Tiles/tile_light_yellow.prefab b/Assets/Prefabs/Tiles/tile_light_yellow.prefab[m
+[1mindex 3ca2b12..511d737 100644[m
+[1m--- a/Assets/Prefabs/Tiles/tile_light_yellow.prefab[m
+[1m+++ b/Assets/Prefabs/Tiles/tile_light_yellow.prefab[m
+[36m@@ -1,84 +1,67 @@[m
+ %YAML 1.1[m
+ %TAG !u! tag:unity3d.com,2011:[m
+[31m---- !u!1 &6661168154343445678[m
+[31m-GameObject:[m
+[32m+[m[32m--- !u!1001 &6240915541125687007[m
+[32m+[m[32mPrefabInstance:[m
+   m_ObjectHideFlags: 0[m
+[31m-  m_CorrespondingSourceObject: {fileID: 0}[m
+[31m-  m_PrefabInstance: {fileID: 0}[m
+[31m-  m_PrefabAsset: {fileID: 0}[m
+[31m-  serializedVersion: 6[m
+[31m-  m_Component:[m
+[31m-  - component: {fileID: 2056794255818058429}[m
+[31m-  - component: {fileID: 2879143506109843959}[m
+[31m-  m_Layer: 0[m
+[31m-  m_Name: tile_light_yellow[m
+[31m-  m_TagString: Untagged[m
+[31m-  m_Icon: {fileID: 0}[m
+[31m-  m_NavMeshLayer: 0[m
+[31m-  m_StaticEditorFlags: 0[m
+[31m-  m_IsActive: 1[m
+[31m---- !u!4 &2056794255818058429[m
+[31m-Transform:[m
+[31m-  m_ObjectHideFlags: 0[m
+[31m-  m_CorrespondingSourceObject: {fileID: 0}[m
+[31m-  m_PrefabInstance: {fileID: 0}[m
+[31m-  m_PrefabAsset: {fileID: 0}[m
+[31m-  m_GameObject: {fileID: 6661168154343445678}[m
+[31m-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}[m
+[31m-  m_LocalPosition: {x: 0, y: 0, z: 0}[m
+[31m-  m_LocalScale: {x: 1, y: 1, z: 1}[m
+[31m-  m_Children: [][m
+[31m-  m_Father: {fileID: 0}[m
+[31m-  m_RootOrder: 0[m
+[31m-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}[m
+[31m---- !u!212 &2879143506109843959[m
+[31m-SpriteRenderer:[m
+[31m-  m_ObjectHideFlags: 0[m
+[31m-  m_CorrespondingSourceObject: {fileID: 0}[m
+[31m-  m_PrefabInstance: {fileID: 0}[m
+[31m-  m_PrefabAsset: {fileID: 0}[m
+[31m-  m_GameObject: {fileID: 6661168154343445678}[m
+[31m-  m_Enabled: 1[m
+[31m-  m_CastShadows: 0[m
+[31m-  m_ReceiveShadows: 0[m
+[31m-  m_DynamicOccludee: 1[m
+[31m-  m_MotionVectors: 1[m
+[31m-  m_LightProbeUsage: 1[m
+[31m-  m_ReflectionProbeUsage: 1[m
+[31m-  m_RayTracingMode: 0[m
+[31m-  m_RayTraceProcedural: 0[m
+[31m-  m_RenderingLayerMask: 1[m
+[31m-  m_RendererPriority: 0[m
+[31m-  m_Materials:[m
+[31m-  - {fileID: 10
