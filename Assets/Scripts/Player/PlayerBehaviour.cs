@@ -10,8 +10,9 @@ public class PlayerBehaviour : MonoBehaviour
     private Camera _camera;
     private Rigidbody2D rigid;
     [SerializeField] private float _playerSizeRadius;
-    private Animator _spriteAnimator;
+    private Animator _animator;
     private AudioSource jumpAudio;
+    private PlayerTypeController _playerTypeController;
 
     private float _jumpTimer;
     [SerializeField] private float _jumpTime;
@@ -19,15 +20,18 @@ public class PlayerBehaviour : MonoBehaviour
 
     [SerializeField] private Sprite[] _playerSprites;
     [SerializeField] private Transform _spriteTransform;
-    [SerializeField] private Transform _shadowTransform;
+    [SerializeField] private Transform _frogShadowTransform;
+    [SerializeField] private Transform _tankShadowTransform;
 
     void Start()
     {
-        _shadowTransform.gameObject.SetActive(false);
+        _frogShadowTransform.gameObject.SetActive(false);
+        _tankShadowTransform.gameObject.SetActive(false);
         _camera = Camera.main;
-        _spriteAnimator = _spriteTransform.GetComponent<Animator>();
+        _animator = GetComponent<Animator>();
         jumpAudio = GetComponent<AudioSource>();
         rigid = GetComponent<Rigidbody2D>();
+        _playerTypeController = GetComponent<PlayerTypeController>();
     }
 
     void Update()
@@ -38,7 +42,7 @@ public class PlayerBehaviour : MonoBehaviour
         {
             //Died
             GameManager.instance.PlayerDied();
-            _spriteAnimator.SetTrigger("Fall");
+            _animator.SetTrigger("Fall");
             return;
         }
         
@@ -105,9 +109,7 @@ public class PlayerBehaviour : MonoBehaviour
     {
         SetPlayerState(PlayerState.Jumping);
         rigid.AddRelativeForce(Vector2.up * _jumpForce);
-        _spriteTransform.localPosition = Vector2.zero;
-        _spriteTransform.localScale = new Vector2(1.1f, 1.1f);
-        _shadowTransform.gameObject.SetActive(true);
+       
         jumpAudio.pitch += Random.Range(0.05f, 0.1f);
         if (jumpAudio.pitch > 1.3f) jumpAudio.pitch = 0.5f;
         jumpAudio.Play();
@@ -117,22 +119,37 @@ public class PlayerBehaviour : MonoBehaviour
         SetPlayerState(PlayerState.Idle);
         _jumpTimer = 0;
         rigid.velocity = Vector2.zero;
-        _spriteTransform.localScale = new Vector2(1, 1);
-        _shadowTransform.gameObject.SetActive(false);
     }
 
     private void SetPlayerState(PlayerState state)
     {
         this._state = state;
+        var playerType = _playerTypeController.PlayerType;
+        
         switch (state)
         {
             case PlayerState.Idle:
+                _frogShadowTransform.gameObject.SetActive(false);
                 SetPlayerSprite(_playerSprites[0]);
+                _tankShadowTransform.gameObject.SetActive(false);
+                transform.localScale = new Vector3(1.0f, 1.0f, 1);
                 break;
             case PlayerState.Jumping:
-                SetPlayerSprite(_playerSprites[1]);
+                switch (playerType)
+                {
+                    case PlayerType.Frog:
+                        _spriteTransform.localPosition = Vector2.zero;
+                        _frogShadowTransform.gameObject.SetActive(true);
+                        SetPlayerSprite(_playerSprites[1]);
+                        break;
+                    case PlayerType.Tank:
+                        _tankShadowTransform.gameObject.SetActive(true);
+                        break;
+                }
+                transform.localScale = new Vector3(1.1f, 1.1f, 1);
                 break;
         }
+        
     }
 
     private void SetPlayerSprite(Sprite sprite)
